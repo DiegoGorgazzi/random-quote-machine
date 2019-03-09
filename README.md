@@ -1,6 +1,6 @@
-This is a challenge project from freeCodeCamp (FCC) which consists in building an app from scratch that returns random quotes. 
+This is a challenge project from freeCodeCamp (FCC) which consists in building an app from scratch that returns random quotes.
 
-I've included the original text below with instructions on what they want students to accomplish.
+I've included the original text below with instructions on what they want students to accomplish (copied from: https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine/).
 
 ### What I'm probably going to be doing
 * Solve the problem the way FCC wants me to solve it.
@@ -52,4 +52,3 @@ You can build your project by forking this CodePen pen. Or you can use this CDN 
 Once you're done, submit the URL to your working project with all its tests passing.
 
 Remember to use the Read-Search-Ask method if you get stuck.
-
