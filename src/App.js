@@ -8,7 +8,10 @@ class App extends Component {
       <div className="App">
 
       <h1>hello </h1>
-      <QuoteBox />
+      <QuoteBox
+        quote="Better safe than sorry"
+        author="Anonymous"
+        />
 
       </div>
     );

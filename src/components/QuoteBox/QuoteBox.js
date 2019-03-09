@@ -1,15 +1,15 @@
 import React from "react";
 
-const quoteBox = () => {
+const quoteBox = (props) => {
     return (
       <div id="quote-box">
 
         <div id="text">
-          <p> To be or Not to be, that is the question </p>
+          <p>{props.quote}</p>
         </div>
 
         <div id="author">
-            <p>Author</p>
+            <p>{props.author}</p>
         </div>
 
         <div id="tweet-quote">
