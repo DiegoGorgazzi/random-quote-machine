@@ -16,7 +16,7 @@ const quoteBox = (props) => {
             <a href="https://twitter.com/intent/tweet">Tweeter</a>
         </div>
 
-        <button id="new-quote"> New quote </button>
+
 
 
       </div>
