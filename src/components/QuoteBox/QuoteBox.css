@@ -1,7 +1,7 @@
 #quote-box {
   border: white;
   background-color: white;
-  max-width: 60%;
+  width: 80%;
   min-width: 250px;
   /*min-height: 300px;*/
   font-size: calc(10px + 2vmin);
@@ -14,7 +14,6 @@
 }
 
 .text-author {
-  /*margin-top: 25%;*/
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -22,13 +21,16 @@
 }
 
 #text {
-  font-type: ;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: bold;
 }
 
 
 #author {
   align-self: flex-end;
   font-style: italic;
+  font-weight: bold;
+  font-family: 'Srisakdi', cursive;
 }
 
 

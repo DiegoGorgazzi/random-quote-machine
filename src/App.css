@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-    background-color: blue;
+    background-color: #99c2ff;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -19,7 +19,7 @@ display: inline-block;
 border: none;
 cursor: pointer ;
 margin-bottom: 10%;
-margin-top: -10%;
+margin-top: 0%;
 font-size: calc(8px + 2vmin);
 }
 
