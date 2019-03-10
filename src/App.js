@@ -13,11 +13,7 @@ class App extends Component {
      }
 
     componentDidMount(){
-      this.setState ({
-         quotes: quotesList[Math.floor((Math.random() * (quotesList.length)))]
-
-       })
-
+      this.randomQuoteHandler();
        return this.state;
      }
 
@@ -27,9 +23,6 @@ class App extends Component {
         })
      }
 
-//I still have to set the qId / key to index
-//I need a setState somewhere inside a handler for the button
-//don't forget about the button eventually.
 
   render() {
 
