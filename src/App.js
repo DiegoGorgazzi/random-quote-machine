@@ -11,10 +11,39 @@ class App extends Component {
         }
      }
 
-//I think state should be empty ?
-//then create a const with all the different quotes
-//then use getDerivedStateFromProps(props, state) to update
-  //the state (so on first page reload we get a random quote)
+    componentDidMount(){
+      const quotesList = [
+          {qId:  1,
+            qText: "Better safe than Sorry" ,
+              qAuthor: "Anonymous"},
+          {qId:  2,
+            qText: "To be or Not to be. That is the question." ,
+              qAuthor: "shakespeare"},
+          {qId:  3,
+            qText: "Be greedy when others are fearful; be fearful when others are greedy",
+              qAuthor: "Warren Buffet"},
+          {qId:  4,
+            qText: "If you're going through hell, keep going",
+              qAuthor: "Winston Churchill"}
+        ];
+
+
+       this.setState ({
+         quotes: quotesList[3]
+         /*
+           quotes: {
+             qId:  2,
+             qText: "To be or Not to be. That is the question." ,
+             qAuthor: "shakespeare"
+          }
+          */
+       })
+
+       //console.log(quotesList[3]);
+       return this.state;
+     }
+
+
 //I shouldn't use, 1, 2, 3... I should use index instead so that
 //if new quotes are added, I don't have to change anything.
 //Although I would still have to set the qId / key to index
@@ -31,7 +60,6 @@ const quotesList = [
 */
 
   render() {
-
 
     return (
       <div className="App">
