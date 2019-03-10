@@ -29,7 +29,7 @@ class App extends Component {
       <div className="App">
 
       <h1>Random Quote Machine </h1>
-      <h2>a React App</h2>
+      <h3>a Reactive Responsive App</h3>
       <QuoteBox
         quote={this.state.quotes.qText}
         author={this.state.quotes.qAuthor}

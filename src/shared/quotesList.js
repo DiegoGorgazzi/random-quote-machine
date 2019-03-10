@@ -4,7 +4,7 @@ export const quotesList = [
         qAuthor: "Anonymous"},
     {qId:  2,
       qText: "To be or Not to be. That is the question." ,
-        qAuthor: "shakespeare"},
+        qAuthor: "Shakespeare"},
     {qId:  3,
       qText: "Be greedy when others are fearful; be fearful when others are greedy",
         qAuthor: "Warren Buffet"},
@@ -12,8 +12,8 @@ export const quotesList = [
       qText: "If you're going through hell, keep going",
         qAuthor: "Winston Churchill"},
     {qId:  5,
-        qText: "These things I have spoken to you that in Me you may have apeace. In the world you have baffliction, but take courage; I have covercome the world.",
-          qAuthor: "John 16:33 (The Bible, Recovery Version)"},
+        qText: "These things I have spoken to you that in Me you may have peace. In the world you have affliction, but take courage; I have covercome the world.",
+          qAuthor: "John 16:33"},
     {qId:  6,
         qText: "Our greatest glory is not in never falling, but in rising every time we fall.",
           qAuthor: "Confucius"},
@@ -24,6 +24,6 @@ export const quotesList = [
         qText: "When the whole world is silent, even one voice becomes powerful.",
           qAuthor: "Malala Yousafzai"},
     {qId:  9,
-          qText: "“If you don’t like the road you’re walking, start paving another one.",
+          qText: "If you don’t like the road you’re walking, start paving another one.",
           qAuthor: "Dolly Parton"}
   ];
