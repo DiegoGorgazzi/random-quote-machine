@@ -14,7 +14,6 @@ class App extends Component {
 
     componentDidMount(){
       this.randomQuoteHandler();
-       return this.state;
      }
 
      randomQuoteHandler = () => {
