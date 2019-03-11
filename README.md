@@ -21,7 +21,7 @@ Please keep it professionally clean and friendly. That includes, but is not limi
 * Being all inclusive. We are all people of different age, sex, religion, race, nationality, etc, etc. But, we're all people. Treat people like people and that'll be a good start.
 
 ### Time is of the Essence
-* Time is always precious. There's always another project in the pipeline that needs (or would be nice) to be done and applying improvements to past projects is always a challenge (especially since they are unpaid! lol). Still, I'll do my best to come back to this. If you contribute and I don't reply right away please accept my apologies in advance but know your contribution is important and I will reply as soon as possible.
+* Time is always precious. There's always another project in the pipeline that needs (or would be nice) to be done and applying improvements to past projects is always a challenge (especially since they are unpaid! :laughing:). Still, I'll do my best to come back to this. If you contribute and I don't reply right away please accept my apologies in advance but know your contribution is important and I will reply as soon as possible.
 
 ## Installation, Available Scripts, and other React related stuff
 
@@ -30,7 +30,7 @@ Please visit Create React App's page (https://github.com/facebook/create-react-a
 By the way,
 
 ```
-npm build
+npm run build
 
 ```
 Has **NOT** been run so the repository shows only the files in development mode.   
