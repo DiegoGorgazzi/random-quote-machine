@@ -17,7 +17,7 @@ const quoteBox = (props) => {
           </div>
 
           <div id="twitter">
-            <a id="tweet-quote" href="https://twitter.com/intent/twee"><FontAwesomeIcon className="twitterFav "icon={faTwitterSquare} size="3x" /></a>
+            <a id="tweet-quote" href="https://twitter.com/intent/tweet"><FontAwesomeIcon className="twitterFav "icon={faTwitterSquare} size="3x" /></a>
           </div>
 
 
