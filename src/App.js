@@ -7,8 +7,8 @@ class App extends Component {
     state = {
         quotes: {
           qId:  1,
-          qText: "Better safe than Sorry",
-          qAuthor: "Anonymous"
+          qText: "",
+          qAuthor: ""
         }
      }
 
