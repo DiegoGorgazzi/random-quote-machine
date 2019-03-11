@@ -38,3 +38,9 @@ h3 {
   margin-top: -5%;
   font-style: oblique;
 }
+
+.appAuthor{
+  font-size: calc(7px + 2vmin);
+  margin-top:-5%;
+  font-style: italic;
+}

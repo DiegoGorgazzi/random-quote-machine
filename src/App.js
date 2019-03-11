@@ -30,6 +30,7 @@ class App extends Component {
         <div>
           <h1>Random Quote Machine </h1>
           <h3>a Reactive Responsive App</h3>
+          <p className="appAuthor">by <a href="https://github.com/DiegoGorgazzi">me</a></p>
         </div>
       <QuoteBox
         quote={this.state.quotes.qText}
