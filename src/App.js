@@ -35,14 +35,8 @@ class App extends Component {
       <QuoteBox
         quote={this.state.quotes.qText}
         author={this.state.quotes.qAuthor}
+        clickIt={this.randomQuoteHandler}
       />
-
-      <button
-      id="new-quote"
-      onClick={this.randomQuoteHandler}
-      >
-        New Quote
-      </button>
 
       </div>
     );

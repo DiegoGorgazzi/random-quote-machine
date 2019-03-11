@@ -16,11 +16,18 @@ const quoteBox = (props) => {
             </div>
           </div>
 
-          <div id="twitter">
+          <div className="twitterQuote">
+            <div>
             <a id="tweet-quote" href="https://twitter.com/intent/tweet"><FontAwesomeIcon className="twitterFav "icon={faTwitterSquare} size="3x" /></a>
+            </div>
+            <div>
+              <button
+                id="new-quote"
+                onClick= {props.clickIt}>
+                 New Quote
+              </button>
+            </div>
           </div>
-
-
 
 
       </div>
