@@ -1,5 +1,7 @@
 import React from "react";
 import "./QuoteBox.css";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faTwitterSquare } from '@fortawesome/free-brands-svg-icons';
 
 const quoteBox = (props) => {
     return (
@@ -14,8 +16,8 @@ const quoteBox = (props) => {
             </div>
           </div>
 
-          <div id="tweeter">
-              <a id="tweet-quote" href="https://twitter.com/intent/tweet">Tweeter</a>
+          <div id="twitter">
+            <a id="tweet-quote" href="https://twitter.com/intent/twee"><FontAwesomeIcon className="twitterFav "icon={faTwitterSquare} size="3x" /></a>
           </div>
 
 

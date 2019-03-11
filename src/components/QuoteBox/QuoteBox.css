@@ -34,7 +34,11 @@
 }
 
 
-#tweeter {
+#twitter {
   align-self: flex-start;
-  height: 25px;
+
+}
+
+.twitterFav {
+  color: #99c2ff;
 }
