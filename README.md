@@ -3,7 +3,7 @@ This is a challenge project from freeCodeCamp (FCC) which consists in building a
 I've included the original text below with instructions on what they want students to accomplish (copied from: https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine/).
 
 ### What I did
-* Solved the problem using React following the specs from FCC.
+* Solved the problem using React following the specs from FCC. Here's the working app: https://random-quote-machine-diego.firebaseapp.com/
 
 ### What I'm probably going to be doing after this
 * I'll probably replace all ids that I'm forced to use with the classic "className".
