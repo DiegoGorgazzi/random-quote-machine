@@ -1,24 +1,39 @@
-This is a challenge project from freeCodeCamp (FCC) which consists in building an app from scratch that returns random quotes.
+This is a challenge project from freeCodeCamp (FCC) which consists in building an App from scratch that returns random quotes.
 
 I've included the original text below with instructions on what they want students to accomplish (copied from: https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine/).
 
-### What I'm probably going to be doing
-* Solve the problem the way FCC wants me to solve it.
-* After passing all tests, I'll probably replace all ids that I'm forced to use with the classic "className".
-* I have some ideas on how to enhance the app.
+### What I did
+* Solved the problem using React following the specs from FCC.
+
+### What I'm probably going to be doing after this
+* I'll probably replace all ids that I'm forced to use with the classic "className".
+* I have some ideas on how to enhance the app (dynamically adding quotes via input and/or fetching from a server, filtering quotes by category, adding animations, transitions, pictures, more social media favicons, etc, etc.).
+* Hard coding the quotes was a pain in the neck. I look forward tackling that problem but it will probably require authentication (which If I want to do it right, will require Routing), so it's going to take a little while. Don't hold your breath.
+* I'll probably either create a release, another branch, or something so keep the FCC version separated from the enhanced version.
+
 
 ##  Contributing
-The main purpose of this repository is to solve the challenge. I'm not expecting contributions (this isn't a popular topic, after all). However, after the challenge has been completed, I'd love to see what can evolve from here so if you have any ideas/code please share.  
+The main purpose of this repository was to solve the challenge and share my solution. I'm not expecting contributions (this isn't a popular topic, after all). However, I'd love to see what can evolve from here so if you have any ideas/code please share. Also, if you have comments on the code I wrote I'd love to hear from you as well. I'll take all criticism as constructive (but try to be nice!).  
 
 ### Code of Conduct
 Please keep it professionally clean and friendly. That includes, but is not limited to:
 * Being patient. If you get frustrated, step away from the keyboard for a few minutes or hours before you do something you might regret later (if you need a few days, maybe you're in the wrong business?).
 * Being all inclusive. We are all people of different age, sex, religion, race, nationality, etc, etc. But, we're all people. Treat people like people and that'll be a good start.
 
+### Time is of the Essence
+* Time is always precious. There's always another project in the pipeline that needs (or would be nice) to be done and applying improvements to past projects is always a challenge (especially since they are unpaid! lol). Still, I'll do my best to come back to this. If you contribute and I don't reply right away please accept my apologies in advance but know your contribution is important and I will reply as soon as possible.
+
 ## Installation, Available Scripts, and other React related stuff
 
 Please visit Create React App's page (https://github.com/facebook/create-react-app).
 
+By the way,
+
+```
+npm build
+
+```
+Has **NOT** been run so the repository shows only the files in development mode.   
 
 # Front End Libraries Projects - Build a Random Quote Machine
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/qRZeGZ.
