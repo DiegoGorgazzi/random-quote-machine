@@ -25,15 +25,7 @@ Please keep it professionally clean and friendly. That includes, but is not limi
 
 ## Installation, Available Scripts, and other React related stuff
 
-Please visit Create React App's page (https://github.com/facebook/create-react-app).
-
-By the way,
-
-```
-npm run build
-
-```
-Has **NOT** been run so the repository shows only the files in development mode.   
+Please visit Create React App's page (https://github.com/facebook/create-react-app).   
 
 # Front End Libraries Projects - Build a Random Quote Machine
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/qRZeGZ.
